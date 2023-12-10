@@ -25,3 +25,6 @@ This is a Movies App built using Next.js, React and [The Movie Database (TMDB)](
     account: ffwadmin
     pass: ffwadmin
 
+## Link deploy: https://ffw-ass-nextjs.vercel.app/
+
+
